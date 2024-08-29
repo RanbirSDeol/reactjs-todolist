@@ -21,7 +21,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todolist-reactjs.git
+   git clone https://github.com/RanbirSDeol/reactjs-todolist
    ```
 2. Navigate to the project directory:
    ```bash
