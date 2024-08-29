@@ -20,22 +20,36 @@ You can check out the live version of the application here: [React.js To-Do List
 To run the project locally, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/RanbirSDeol/reactjs-todolist
    ```
+
 2. Navigate to the project directory:
+
    ```bash
    cd todolist-reactjs
    ```
+
 3. Install the dependencies:
+
    ```bash
    npm install
    ```
-4. Start the development server:
+
+4. Install vite:
+
    ```bash
-   npm start
+   npm install vite --save-dev
    ```
-5. Open your browser and go to `http://localhost:3000` to see the application in action.
+
+5. Run development server:
+
+   ```bash
+   npm run dev
+   ```
+
+6. Open your browser and go to `http://localhost:3000` to see the application in action.
 
 ## Technologies Used
 
