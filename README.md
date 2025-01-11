@@ -2,6 +2,8 @@
 
 This is a simple to-do list application built with React.js that allows users to perform the basic CRUD operations: adding, editing, deleting, and marking items as completed. The application provides an intuitive interface for managing daily tasks efficiently.
 
+![Application](./public/photo.png)
+
 ## Technologies Used
 
 - **React.js**: A JavaScript library for building user interfaces.
@@ -32,37 +34,38 @@ You can check out the live version of the application here: [React.js To-Do List
 ## Prerequisites
 
 To get started with a React.js program, ensure you have the following installed on your system:
-- [Node.js](https://nodejs.org/)  
-- [Git](https://git-scm.com/downloads)  
+
+- [Node.js](https://nodejs.org/)
+- [Git](https://git-scm.com/downloads)
 
 ## Step 1. Clone the Repository
 
-   ```bash
-   git clone https://github.com/RanbirSDeol/reactjs-todolist
-   ```
+```bash
+git clone https://github.com/RanbirSDeol/reactjs-todolist
+```
 
 ## Step 2. Navigate To The Project Directory
 
-   ```bash
-   cd todolist-reactjs
-   ```
+```bash
+cd todolist-reactjs
+```
 
 ## Step 3. Install The Dependencies:
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 ## Step 4. Install Vite
 
-   ```bash
-   npm install vite --save-dev
-   ```
+```bash
+npm install vite --save-dev
+```
 
 ## Step 5. Run The Development Server
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
 ## Step 6. Open Your Browser and Go To `http://localhost:3000` to See The Application in Action.
